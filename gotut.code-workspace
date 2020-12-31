@@ -1,0 +1,16 @@
+{
+  "folders": [
+    {
+      "path": "."
+    },
+    {
+      "path": "./greetings"
+    },
+    {
+      "path": "./helloworld"
+    },
+    {
+      "path": "./tut"
+    }
+  ]
+}
